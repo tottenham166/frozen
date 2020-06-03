@@ -1,0 +1,101 @@
+{margin:0;padding:0}
+
+/* Calling Fonts */
+
+@font-face{
+	
+	font-family:"Play-Regular";
+	
+	
+	src: url("font/Play-Regular.eot") format("eot"),
+	
+	url("font/Play-Regular.woff") format("woff"),
+	
+	
+	
+	url("font/Play-Regular.ttf") format("truetype"),
+	
+	
+	url("/font/Play-Regular.svg") format("svg");
+	
+	
+}
+
+/* Calling Fonts */
+
+
+
+.current{ color:teal; }
+
+.fix{ overflow:hidden;}
+
+
+.container{ max-width:960px;}
+
+.one{
+	background:#eee;
+	
+}
+
+
+.link  {
+  background: url(images/icons.png) no-repeat 0 -127px;
+    color: #FFFFFF;
+    display: block;
+    font-family: quicksand-bold-webfont;
+    font-size: 24px;
+    font-weight: normal;
+    height: 99px;
+    line-height: 24px;
+    margin: 0;
+    padding: 52px 0 0;
+    position: absolute;
+    right: 321px;
+    text-align: center;
+    text-transform: uppercase;
+    top: 547px;
+    width: 169px;
+    height: 150px;
+    z-index: 90;
+}
+
+.two{
+	
+	background:#f8f8f8;
+}
+
+
+.menu ul li a{}
+.menu ul li a:hover{}
+
+	p{
+		
+		text-align:justify;
+		font-size:14px;
+	}
+	
+	a{
+		display:block;
+		color:#000;
+		text-decoration:none;
+		padding:7px;
+		
+	}
+	
+	a:hover{
+		
+		text-decoration:none;
+	
+		
+	}
+	
+	
+	.social a,img{ display:inline;}
+	
+	
+	
+	body{
+		font-family:Play-Regular;
+	}
+	
+		.searchbar input{ border:0; padding:0; margin:0}
